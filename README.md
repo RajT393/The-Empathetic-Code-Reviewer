@@ -15,7 +15,7 @@ Output:
   - Holistic Summary
 
 ## Files
-- `Empathetic_Code_Reviewer.ipynb` → main notebook
+- `Empathetic_Code_Reviewer_m1.ipynb` → main notebook
 - `requirements.txt` → dependencies
 - `README.md` → project overview
 
