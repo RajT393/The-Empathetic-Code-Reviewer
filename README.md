@@ -28,8 +28,8 @@ Output:
 
 ## Contact
 - Author: Koteswara Raju Tadikamalla
-- Email: <your email>
-- LinkedIn: <your LinkedIn>
-- GitHub: <your GitHub>
+- Email: <rajtadikamalla28@gmail.com>
+- LinkedIn: <https://www.linkedin.com/in/koteswara-raju-tadikamalla-379305253/>
+- GitHub: <https://github.com/RajT393>
 
 
